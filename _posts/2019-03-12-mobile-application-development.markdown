@@ -21,7 +21,7 @@ The application has multiple features among:
 * The possibility of creating a dematerialized card that entitles you to specific discounts in more than 40 local businesses and services listed in the application
 
 
-![iOS version of the 'Jeunes Châlons']({{site.baseurl}}//assets/jeunes-chalons/jeunes_chalons_screenshots.png)
+![iOS version of the 'Jeunes Châlons']({{site.baseurl}}/assets/jeunes-chalons/jeunes_chalons_screenshots.png)
 
 
 # Technologies used
