@@ -7,12 +7,12 @@ tags: [Flutter, iOS, Android]
 categories: 
 ---
 
-I have developped a mobile application for the town hall of Châlons-en-Champagne (France). I did this project with a teammate named BENNORA Oussama, an other student at ENSAM. 
+I have developed a mobile application for the town hall of Châlons-en-Champagne (France). I did this project with a teammate named BENNORA Oussama, another student at ENSAM. 
 
 
 # The Application
 
-'Jeunes Châlons' is a free application that aims to bring together all the services provided to 15/25 year olds in the Châlons-en-Champagne area, resulting in a total of 300 pages of content, accessible by search engine or specific tabs. 
+'Jeunes Châlons' is a free application that aims to bring together all the services provided to 15/25 year old in the Châlons-en-Champagne area, resulting in a total of 300 pages of content, accessible by search engine or specific tabs. 
 
 
 The application has multiple features among:
@@ -26,7 +26,7 @@ The application has multiple features among:
 
 # Technologies used
 
-The application is entirely developped using [Flutter][Flutter], a cross plateform framework made by Google, similar to React Native.
+The application is entirely developed using [Flutter][Flutter], a cross-platform framework made by Google, similar to React Native.
 Flutter apps are written in the [Dart][Dart] language and make use of many of the language's more advanced features.
 
 The application uses:

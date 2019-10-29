@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vanadium - Online Payment Plateform
+title: Vanadium - Online Payment Platform
 date: 2018-04-15 22:13:20 +0300
 description:
 image: vanadium-website.jpg # Add image post (optional)
@@ -27,11 +27,11 @@ We planned different tasks to transform the platform, including:
 
 ## Migrate the platform online
 
-We subscribed to an online host server and we bought a domain name server. We migrated the website and the database to an online server, so the plateform could be accessed from anywhere. As well, we optimized the size of pictures to accelerate navigation.
+We subscribed to an online host server and we bought a domain name server. We migrated the website and the database to an online server, so the platform could be accessed from anywhere. As well, we optimized the size of pictures to accelerate navigation.
 
 ## Enable the secured top up
 
-Thanks to a partnership between our school and the payment tool Lydia, we are able to pay through Lydia payment platform. We used the payment API provided by Lydia in order to integrate a payment page on our site. The main challenge was assuring the security of the transaction using transocation keys and token. We took contact with an informatics employee of Lydia to make our solution of payment secured.
+Thanks to a partnership between our school and the payment tool Lydia, we are able to pay through Lydia payment platform. We used the payment API provided by Lydia in order to integrate a payment page on our site. The main challenge was assuring the security of the transaction using transaction keys and token. We took contact with an informatics employee of Lydia to make our solution of payment secured.
 
 ## Display statistics on expense
 
@@ -56,11 +56,6 @@ We completely reshape the design of the website, from the background to the font
 
 This page secure the access at the platform to members only.
 
-## Main page
-
-![vanadium-main]({{site.baseurl}}\assets\vanadium\main.png)
-
-The main page is divided in blocks containing, editable information, a ranking of last 2 weeks consumers, money balance in the platform, the one of your organization and the calculated one of your promotion.
 
 ## Historic
 
